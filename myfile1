@@ -1,0 +1,4 @@
+team1 
+team2
+ls -ltr
+find /etc *
